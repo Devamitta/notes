@@ -1,4 +1,4 @@
-[Поддержка монахов](https://devamitta.github.io/pali/dana.html)
+[Поддержка монахов](https://devamitta.github.io/notes/dana.html)
 
 [Пали словарь](https://devamitta.github.io/pali/)
 

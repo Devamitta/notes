@@ -36,4 +36,4 @@
 
 ....
 
-[назад к статье о поддержке](https://devamitta.github.io/pali/dana.html)
+[назад к статье о поддержке](https://devamitta.github.io/notes/dana.html)
