@@ -36,6 +36,8 @@
 
 Подробнее о том чем занимается помощник можно [почитать здесь.](https://devamitta.github.io/notes/kappiya.html) 
 
+О том как умело предложить монаху еду или медицину можно [почитать здесь.](https://devamitta.github.io/notes/food.html)  
+
 --------------
 
 
