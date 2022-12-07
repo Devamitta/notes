@@ -1,8 +1,13 @@
-[Поддержка монахов](https://devamitta.github.io/notes/dana.html)
+
+--------------
 
 [Пали словарь](https://devamitta.github.io/pali/)
 
 [Tools for Pāḷi Study](https://sasanarakkha.github.io/study-tools/)
+
+[статья о поддержке](https://devamitta.github.io/notes/dana.html)
+
+--------------
 
 *Да будут все счастливы и в безопасности!*
 
