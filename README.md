@@ -7,6 +7,8 @@
 
 [статья о поддержке](https://devamitta.github.io/notes/dana.html)
 
+связаться можно по [почте.](mailto:devamitta@sasanarakkha.org).
+
 --------------
 
 *Да будут все счастливы и в безопасности!*
