@@ -14,7 +14,7 @@
 
 --------------
 
-Есть правило Винаи [(NP18)](https://suttacentral.net/pli-tv-bu-vb-np18/en/brahmali?layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) запрещающее монаху принимать или побуждать принять золото, деньги или любой эквивалент деньгам.
+Есть правило Винаи - Нисаггия Паччития 18 ([Vibhaṅga - NP18](https://suttacentral.net/pli-tv-bu-vb-np18/en/brahmali?layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) или [BMC-NP18](https://www.dhammatalks.org/vinaya/bmc/Section0014.html#NP18)) запрещающее монаху принимать или побуждать принять золото, деньги или любой эквивалент деньгам.
 
 Поэтому когда мирянин предлагает поддержку монаху (или группе монахов, монастырю, Сангхе и т.д.) следующие фразы могут подвести монаха к нарушению этого правила:
 
@@ -27,7 +27,7 @@
 
 Но у монаха может быть [помощник (kappiya)](https://devamitta.github.io/notes/kappiya.html) заботящийся о материальных нуждах монаха, который [пригласил](https://devamitta.github.io/notes/pavarana.html) монаха спрашивать когда появится та или иная нужда.
 
-Есть правило Винаи [(NP10)](https://suttacentral.net/pli-tv-bu-vb-np10/en/brahmali?layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) объясняющее как монах может взаимодействовать с помощником.  В нем описано - когда кто-то пытается предложить деньги, монаху следует ответить -  мы, монахи, не можем принять деньги, но мы можем принять допустимые вещи. 
+Есть правило Винаи - Нисаггия Паччития 10 ([Vibhaṅga - NP10](https://suttacentral.net/pli-tv-bu-vb-np10/en/brahmali?layout=plain&reference=none&notes=asterisk&highlight=false&script=latin) или [BMC-NP10](https://www.dhammatalks.org/vinaya/bmc/Section0013.html#NP10))  объясняющее как монах может взаимодействовать с помощником.  В нем описано - когда кто-то пытается предложить деньги, монаху следует ответить -  мы, монахи, не можем принять деньги, но мы можем принять допустимые вещи. 
 И если мирянин спросит "А есть ли у Вас помощник, который заботится о ваших нуждах?"
 И на такой вопрос монах может указать на помощника.
 

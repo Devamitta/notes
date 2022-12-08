@@ -11,7 +11,7 @@
 - в случае когда у монаха есть приглашение на поддержку.
 - просьба о физической помощи у человека уже имеющим какое-то отношение с монахом, любо живущим с ним в монастыре, либо уже участвующим в каком то проекте, либо предложившему свою помощь.
 
-Когда кто-то приглашает монаха спрашивать в случае возникновения нужды, это называется приглашение (pavāraṇā). [PC 47](https://suttacentral.net/pli-tv-bu-vb-pc47/en/brahmali?layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin)
+Когда кто-то приглашает монаха спрашивать в случае возникновения нужды, это называется приглашение (pavāraṇā). Паччития 47 ([Vibhaṅga - PC 47](https://suttacentral.net/pli-tv-bu-vb-pc47/en/brahmali?layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin) или [BMC-PC 47](https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47)).
 
 Есть разные типы приглашений:
 - неограниченное приглашение во времени и в объекте спроса
@@ -32,7 +32,7 @@
 
 И монах ограничен прашивать в рамках данного приглашения. Даже если например у монаха нужда на более дешевый предмет, но не оговоренный в приглашение, он спрашивать не может.
 
-Просьбы, намеки и двусмысленные высказывания с намерением дать человеку знать о нужде без приглашения являются нарушением этого правила [PC 47](https://suttacentral.net/pli-tv-bu-vb-pc47/en/brahmali?layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin).
+Просьбы, намеки и двусмысленные высказывания с намерением дать человеку знать о нужде без приглашения являются нарушением этого правила Паччития 47 ([Vibhaṅga - PC 47](https://suttacentral.net/pli-tv-bu-vb-pc47/en/brahmali?layout=linebyline&reference=none&notes=asterisk&highlight=false&script=latin) или [BMC-PC 47](https://www.dhammatalks.org/vinaya/bmc/Section0020.html#Pc47)).
 
 --------------
 
