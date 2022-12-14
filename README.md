@@ -13,6 +13,10 @@
 
 [Нюансы с предложением еды и медицины.](https://devamitta.github.io/notes/food.html)
 
+[Сангха Дана.](https://devamitta.github.io/notes/sangha-dana.html)
+
+[Благотворительность](https://devamitta.github.io/notes/caga.html)
+
 --------------
 
 Другие проекты:
